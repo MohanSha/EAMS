@@ -1,0 +1,33 @@
+create table
+------------------------------------
+ac_data_tbl.xls
+att_report_tbl.xls
+att_stage01_tbl.xls
+calendar_tbl.xls
+email_tbl.xls
+erp_report_tbl.xls
+holiday_tbl.xls
+mob_data_tbl.xls
+------------------------------------
+
+import data from xls
+------------------------------------
+ac_data.xls
+erp_report.xls
+mob_data.xls
+email.xls		(optional)
+holiday.xls		(optional)
+------------------------------------
+
+Genrate attendance
+------------------------------------
+<month>09
+<year>2017
+
+------------------------------------
+
+update weekoff
+------------------------------------
+<year>2017
+------------------------------------
+
